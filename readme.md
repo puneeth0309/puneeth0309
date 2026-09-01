@@ -151,16 +151,15 @@ An AI-powered application that analyzes resumes and presents useful insights to 
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=puneeth0309&show_icons=true&theme=tokyonight&hide_border=true" alt="Puneeth's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneeth0309&layout=compact&theme=tokyonight&hide_border=true" alt="Puneeth's most-used languages" />
+  <a href="https://github.com/puneeth0309?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Puneeth's repositories" />
+  </a>
+  <img src="https://img.shields.io/github/followers/puneeth0309?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/puneeth0309?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=puneeth0309&theme=tokyonight&hide_border=true" alt="Puneeth's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneeth0309&theme=tokyo-night&hide_border=true" alt="Puneeth's contribution graph" />
 </p>
 
 ---
